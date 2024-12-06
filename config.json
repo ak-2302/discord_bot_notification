@@ -1,0 +1,35 @@
+{
+    "log_server_id": 0,
+    "guilds": {
+        "0": {
+            "log": {
+                "message": {
+                    "content": "",
+                    "embed": {}
+                },
+                "channel": {
+                    "name": "",
+                    "id": 0
+                }
+            },
+            "join_notification": {
+                "channel": {
+                    "name": "",
+                    "id": 0
+                }
+            },
+            "message_notification": {
+                "channel": {
+                    "name": "",
+                    "id": 0
+                }
+            },
+            "VC_notification": {
+                "channel": {
+                    "name": "",
+                    "id": 0
+                }
+            }
+        }
+    }
+}
