@@ -1,4 +1,5 @@
 import sys
+import discord
 
 
 def check_python_version():
